@@ -1,0 +1,6 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\estudoc#\estudocsharp\estudocsharp\bin\Debug\estudocsharp.exe.config
+C:\Users\pedro\OneDrive\Área de Trabalho\estudoc#\estudocsharp\estudocsharp\bin\Debug\estudocsharp.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\estudoc#\estudocsharp\estudocsharp\bin\Debug\estudocsharp.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\estudoc#\estudocsharp\estudocsharp\obj\Debug\estudocsharp.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\estudoc#\estudocsharp\estudocsharp\obj\Debug\estudocsharp.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\estudoc#\estudocsharp\estudocsharp\obj\Debug\estudocsharp.pdb
